@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test component Link should render component 1`] = `
+<Fragment>
+  <td>
+    Золото
+  </td>
+  <td>
+    1000
+  </td>
+  <td>
+    3
+  </td>
+  <td>
+    20/04/2019 08:55:00
+  </td>
+  <td>
+    20/04/2019 08:55:00
+  </td>
+  <td>
+    3
+  </td>
+  <td>
+    Да
+  </td>
+  <td>
+    Да
+  </td>
+  <td>
+    Да
+  </td>
+  <td>
+    Да
+  </td>
+  <td>
+    Виден
+  </td>
+  <td>
+    Нет
+  </td>
+  <td>
+    Нельзя
+  </td>
+  <td />
+</Fragment>
+`;
