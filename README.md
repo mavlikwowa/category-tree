@@ -181,7 +181,3 @@
    ]
 }
 ```
-
-# Как показать результаты
-
-Ссылку (Github) на готовое тестовое задание прикрепить к отклику на вакансию. Или отправить в Whatsapp/Telegram, указанный в вакансии. git remote add origin https://github.com/mavlikwowa/category-tree.git
